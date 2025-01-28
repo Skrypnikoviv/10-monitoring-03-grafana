@@ -20,3 +20,4 @@ node_filesystem_free_bytes{fstype!="tmpfs"}
 
 #
 Задание 4
+[Дашборд](dash.json)
