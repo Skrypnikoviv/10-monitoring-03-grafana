@@ -15,7 +15,8 @@ node_filesystem_free_bytes{fstype!="tmpfs"}
 
 ```
 #
-
+Задание 3
 ![image](https://github.com/user-attachments/assets/e304f8db-2159-4142-9f61-560468bf8aad)
 
 #
+Задание 4
